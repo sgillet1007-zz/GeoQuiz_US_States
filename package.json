@@ -1,6 +1,5 @@
 {
   "dependencies": {
     "express": "^4",
-    "jade": "^1"
   }
 }
